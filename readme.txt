@@ -1,3 +1,6 @@
+This project is part of the TDT4173 Introduction to machine learning course at NTNU.
+
+---- PROJECT DESCRIPTION ----
 You need to pass all three tasks in the individual assignment.
 
 Task 1
